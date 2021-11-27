@@ -24,8 +24,8 @@ public class Algoritmo {
         //estado inicial
         char inicial;
         
-       
-    
+       //conjuntos a comparar
+        char elemento1,elemento2;    
     }
     
 }
